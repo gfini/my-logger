@@ -1,3 +1,7 @@
+---
+layout: default
+title: My Logger
+---
 # My Logger
 
 ### Co to za apka?

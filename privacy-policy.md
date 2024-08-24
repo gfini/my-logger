@@ -1,3 +1,7 @@
+---
+layout: default
+title: Polityka prywatności
+---
 ## Polityka Prywatności Danych Osobowych Aplikacji My Logger
 
 *Obowiązuje od: 24.08.2024*
