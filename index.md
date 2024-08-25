@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: gradient
 title: My Logger
 ---
 # My Logger
