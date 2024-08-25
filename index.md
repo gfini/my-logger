@@ -28,3 +28,5 @@ Aby uniknąć utraty danych podczas utraty telefonu (nie życzę Ci tego, ale wi
 
 ### Wymagania systemowe
 Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje kompatybilność aż do Androida 8.0 Oreo. Jest to wersja Androida wydana w 2017 roku, więc jeśli twój telefon ma mniej niż 7 lat, będzie się nadawał 🙂.
+
+<div style="height: 200px;"></div>
