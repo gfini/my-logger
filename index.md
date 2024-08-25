@@ -18,7 +18,7 @@ title: My Logger
         <p>Obecnie aplikacja jest na etapie testów i nie jest publicznie dostępna w Google Play. Nadal jednak możesz zacząć z niej korzystać! Wystarczy, że wypełnisz ten <a href="https://forms.gle/1XGxMdjh5RKmZWat8">formularz</a>, a wtedy dodam Cię do listy testerów i wyślę maila z linkiem do aplikacji 😊📲.</p>
         <p>Wciąż rozwijam My Loggera i mam mnóstwo pomysłów na kolejne funkcje, ale bardzo chętnie poznam też Twoje pomysły 😃! Skorzystaj z opcji "<i>Prześlij opinię lub zgłoś błąd</i>" bezpośrednio w apce. Jeśli trafisz na jakiś błąd, będę ogromnie wdzięczny za informację, w jakiej sytuacji wystąpił i co się wydarzyło.</p>
     </div>
-    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 250px; margin-right: 20px;">
+    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 250px; margin-left: 20px;">
 </div>
 
 ### Dane i prywatność
