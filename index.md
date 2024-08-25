@@ -5,17 +5,21 @@ title: My Logger
 # My Logger
 
 <div style="display: flex; align-items: center;">
-    <img src="img/logo.png" alt="Opis obrazka" style="max-width: 250px; margin-right: 20px;">
+    <img src="img/logo.png" alt="logo aplikacji" style="max-width: 250px; margin-right: 20px;">
     <div>
         <h3>Co to za apka?</h3>
         <p>My Logger to aplikacja na Androida do prostego i szybkiego zapisywania dowolnych wydarzeń z Twojego życia. Korzyści z takiego zbierania danych o sobie może być bardzo wiele, wszystko zależy od tego, jakie "loggery" utworzysz 😉. Ogólnie zwiększa to twoją świadomość, co się dzieje w Twoim życiu i jak często. Obecnie aplikacja posiada podstawowe funkcje, które pozwalają przede wszystkim wprowadzać i wyświetlać dane (w tym proste statystyki). Funkcje wyszukiwania i szczegółowych przypomnień są w drodze :)</p>
     </div>
 </div>
 
-### Zostań testerem!
-Obecnie aplikacja jest na etapie testów i nie jest publicznie dostępna w Google Play. Nadal jednak możesz zacząć z niej korzystać! Wystarczy, że wypełnisz ten [formularz](https://forms.gle/1XGxMdjh5RKmZWat8), a wtedy dodam Cię do listy testerów i wyślę maila z linkiem do aplikacji 😊📲.
-
-Wciąż rozwijam My Loggera i mam mnóstwo pomysłów na kolejne funkcje, ale bardzo chętnie poznam też Twoje pomysły 😃! Skorzystaj z opcji "*Prześlij opinię lub zgłoś błąd*" bezpośrednio w apce. Jeśli trafisz na jakiś błąd, będę ogromnie wdzięczny za informację, w jakiej sytuacji wystąpił i co się wydarzyło.
+<div style="display: flex; align-items: center;">
+    <div>
+        <h3>Zostań testerem!</h3>
+        <p>Obecnie aplikacja jest na etapie testów i nie jest publicznie dostępna w Google Play. Nadal jednak możesz zacząć z niej korzystać! Wystarczy, że wypełnisz ten <a href="https://forms.gle/1XGxMdjh5RKmZWat8">formularz</a>, a wtedy dodam Cię do listy testerów i wyślę maila z linkiem do aplikacji 😊📲.</p>
+        <p>Wciąż rozwijam My Loggera i mam mnóstwo pomysłów na kolejne funkcje, ale bardzo chętnie poznam też Twoje pomysły 😃! Skorzystaj z opcji "<i>Prześlij opinię lub zgłoś błąd</i>" bezpośrednio w apce. Jeśli trafisz na jakiś błąd, będę ogromnie wdzięczny za informację, w jakiej sytuacji wystąpił i co się wydarzyło.</p>
+    </div>
+    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 250px; margin-right: 20px;">
+</div>
 
 ### Dane i prywatność
 Obecnie wszystkie dane, które wprowadzasz do aplikacji są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](privacy-policy).
