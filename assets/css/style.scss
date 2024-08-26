@@ -17,15 +17,15 @@
     text-align: justify;
 }
 
-.gradient-background a {
+.gradient-background img {
+    background: transparent !important;
+}
+
+a {
     color: #ffc300;
 }
 
-.gradient-background a:hover {
+a:hover {
     text-shadow: 0px 0px 15px #ffc300;
     text-decoration: none;
-}
-
-.gradient-background img {
-    background: transparent !important;
 }

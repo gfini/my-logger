@@ -20,9 +20,7 @@ Polityka prywatności może ulec zmianie. Wszelkie zmiany będą publikowane na 
 
 Prywatność użytkowników jest naszym priorytetem. Dlatego też aplikacja została zaprojektowana w taki sposób, aby minimalizować jakiekolwiek zbieranie danych użytkowników.
 
-<div style="height: 100px;"></div>
+<div style="height: 10px;"></div>
 
 ---
 [Wróć do strony głównej](index)
-
-<div style="height: 30px;"></div>

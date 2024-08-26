@@ -25,13 +25,15 @@ title: My Logger
             <li>kiedy ostatnio piłeś alkohol lub paliłeś papierosa (bardzo przydatne, jeśli chcesz to ograniczyć lub przestać),</li>
             <li>kiedy ostatnio byłeś na wakacjach, gdzie i jak było,</li>
             <li>monitorowanie kamieni milowych w projektach (aby docenić, jak dobrze sobie radzisz)</li>
-            <li>i nieskończenie wiele więcej.</li>
+            <li>i co tylko przyjdzie Ci do głowy! 😃</li>
         </ul>
-        <h3>Zostań testerem!</h3>
-        <p>Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Google Play. W niedługim czasie zamierzam jednak uruchomić testy dla większego grona, jeśli więc aplikacja Cię zainteresowała, możesz wypełnić ten <a href="https://forms.gle/1XGxMdjh5RKmZWat8">formularz</a>, a gdy zbierze się odpowiednia liczba chętnych, każda zapisana osoba dostanie emaila z linkiem do aplikacji 😊📲.</p>
+        <p>Nie obawiaj się eksperymentować – jeśli uznasz, że logowanie danego wydarzenia Ci się nie przydaje, możesz zarchiwizować logger.</p>
     </div>
     <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 300px; margin-left: 70px;">
 </div>
+
+### Zostań testerem!
+Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Google Play. W niedługim czasie zamierzam jednak uruchomić testy dla większego grona, jeśli więc aplikacja Cię zainteresowała, możesz wypełnić ten [formularz](https://forms.gle/1XGxMdjh5RKmZWat8), a gdy zbierze się odpowiednia liczba chętnych, każda zapisana osoba dostanie emaila z linkiem do aplikacji 😊📲.
 
 ### Dane i prywatność
 Obecnie wszystkie dane, które wprowadzasz do aplikacji są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](privacy-policy).
@@ -41,9 +43,7 @@ Aby zminimalizować ryzyko utraty danych podczas utraty telefonu (nie życzę Ci
 ### Wymagania systemowe
 Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje kompatybilność aż do Androida 8.0 Oreo. Jest to wersja Androida wydana w 2017 roku, więc jeśli twój telefon ma mniej niż 7 lat, będzie się nadawał 🙂.
 
-<div style="height: 100px;"></div>
+<div style="height: 50px;"></div>
 
 ---
-*ostatnia aktualizacja informacji: 26.08.2024*
-
-<div style="height: 30px;"></div>
+*ostatnia aktualizacja: 26.08.2024*
