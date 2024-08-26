@@ -4,7 +4,7 @@ title: Polityka prywatności
 ---
 ## Polityka Prywatności Danych Osobowych Aplikacji My Logger
 
-*Obowiązuje od: 24.08.2024*
+*W obecnej formie obowiązuje od 26.08.2024. Historia zmian dostępna [tutaj](https://github.com/gfini/my-logger/commits/main/privacy-policy.md).*
 
 My Logger (Mój Logger) jest darmową aplikacją. Aplikacja jest udostępniana bezpłatnie i jest przeznaczona do użytku w obecnej formie.
 
@@ -14,8 +14,15 @@ Aplikacja nie zawiera żadnych reklam ani kodów śledzących, a zachowania uży
 
 Aplikacja nie ma uprawnień do dostępu do internetu, w związku z czym nie łączy się z siecią w jakimkolwiek celu.
 
-Administratorem danych osobowych (jeśli takie byłyby zbierane) jest Grzegorz Fijałkowski Initiatives, z siedzibą przy ul. Poetów 10A/7, 03-147 Warszawa, NIP: 524-297-12-82, REGON: 525246306. Jeśli masz jakiekolwiek pytania, skontaktuj się z twórcą aplikacji pod adresem gfini.apps@gmail.com.
+Administratorem danych osobowych (jeśli takie byłyby zbierane) jest Grzegorz Fijałkowski Initiatives, z siedzibą przy ul. Poetów 10A/7, 03-147 Warszawa, NIP: 524-297-12-82, REGON: 525246306. Jeśli masz jakiekolwiek pytania, skontaktuj się z twórcą aplikacji pod adresem mylogger@gfini.com.
 
 Polityka prywatności może ulec zmianie. Wszelkie zmiany będą publikowane na tej stronie. Użytkownikom zaleca się regularne sprawdzanie tej strony w celu monitorowania zmian. W przypadku istotnych zmian w polityce prywatności użytkownicy zostaną o tym poinformowani bezpośrednio w aplikacji.
 
 Prywatność użytkowników jest naszym priorytetem. Dlatego też aplikacja została zaprojektowana w taki sposób, aby minimalizować jakiekolwiek zbieranie danych użytkowników.
+
+<div style="height: 100px;"></div>
+
+---
+[Wróć do strony głównej](index)
+
+<div style="height: 30px;"></div>

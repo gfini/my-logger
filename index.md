@@ -8,25 +8,42 @@ title: My Logger
     <img src="img/logo.png" alt="logo aplikacji" style="max-width: 250px; margin-right: 20px;">
     <div>
         <h3>Co to za apka?</h3>
-        <p>My Logger to aplikacja na Androida do prostego i szybkiego zapisywania dowolnych wydarzeń z Twojego życia. Korzyści z takiego zbierania danych o sobie może być bardzo wiele, wszystko zależy od tego, jakie "loggery" utworzysz 😉. Ogólnie zwiększa to twoją świadomość, co się dzieje w Twoim życiu i jak często. Obecnie aplikacja posiada podstawowe funkcje, które pozwalają przede wszystkim wprowadzać i wyświetlać dane (w tym proste statystyki). Funkcje wyszukiwania i szczegółowych przypomnień są w drodze :)</p>
+        <p>My Logger to aplikacja na Androida do prostego i szybkiego zapisywania dowolnych wydarzeń z Twojego życia w uporządkowany sposób. Kiedy ostatnio coś zrobiłeś lub kiedy coś się wydarzyło? Jak często coś się dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? 🤔 Jeśli kiedykolwiek zadawałeś sobie podobne pytania, ta aplikacja jest dla Ciebie! Zalogowanie wydarzenia zajmuje sekundy, a na dłuższą metę może dostarczyć Ci bardzo przydatnych informacji o Tobie i Twoim życiu.</p>
     </div>
 </div>
 
 <div style="display: flex; align-items: center;">
     <div>
+        <h3>Co logować?</h3>
+        <p>W tej aplikacji możesz śledzić dowolne wydarzenia – wystarczy, że stworzysz logger, np. „Baterie w pilocie TV” i już możesz rejestrować, jak często zmieniasz baterię w pilocie TV! Jeśli Twoja ulubiona firma produkująca baterie zacznie wytwarzać baterie o krótszym czasie działania, zauważysz to od razu! Oczywiście możesz też zbierać o wiele bardziej wartościowe dane – o Twoim zdrowiu, relacjach, finansach, pracy, czasie wolnym i rozwoju osobistym, n.p.:</p>
+        <ul>
+            <li>jak często uprawiasz sport,</li>
+            <li>jak często czytasz lub oglądasz filmy,</li>
+            <li>jak często spotykasz się z rodziną lub przyjaciółmi,</li>
+            <li>jak często zmieniasz filtry (wody, powietrza, odkurzacza),</li>
+            <li>jak często kupujesz coś drogiego,</li>
+            <li>kiedy ostatnio piłeś alkohol lub paliłeś papierosa (bardzo przydatne, jeśli chcesz to ograniczyć lub przestać),</li>
+            <li>kiedy ostatnio byłeś na wakacjach, gdzie i jak było,</li>
+            <li>monitorowanie kamieni milowych w projektach (aby docenić, jak dobrze sobie radzisz)</li>
+            <li>i nieskończenie wiele więcej.</li>
+        </ul>
         <h3>Zostań testerem!</h3>
-        <p>Obecnie aplikacja jest na etapie testów i nie jest publicznie dostępna w Google Play. Nadal jednak możesz zacząć z niej korzystać! Wystarczy, że wypełnisz ten <a href="https://forms.gle/1XGxMdjh5RKmZWat8">formularz</a>, a wtedy dodam Cię do listy testerów i wyślę maila z linkiem do aplikacji 😊📲.</p>
-        <p>Wciąż rozwijam My Loggera i mam mnóstwo pomysłów na kolejne funkcje, ale bardzo chętnie poznam też Twoje pomysły 😃! Skorzystaj z opcji "<i>Prześlij opinię lub zgłoś błąd</i>" bezpośrednio w apce. Jeśli trafisz na jakiś błąd, będę ogromnie wdzięczny za informację, w jakiej sytuacji wystąpił i co się wydarzyło.</p>
+        <p>Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Google Play. W niedługim czasie zamierzam jednak uruchomić testy dla większego grona, jeśli więc aplikacja Cię zainteresowała, możesz wypełnić ten <a href="https://forms.gle/1XGxMdjh5RKmZWat8">formularz</a>, a gdy zbierze się odpowiednia liczba chętnych, każda zapisana osoba dostanie emaila z linkiem do aplikacji 😊📲.</p>
     </div>
-    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 250px; margin-left: 20px;">
+    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 300px; margin-left: 70px;">
 </div>
 
 ### Dane i prywatność
 Obecnie wszystkie dane, które wprowadzasz do aplikacji są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](privacy-policy).
 
-Aby uniknąć utraty danych podczas utraty telefonu (nie życzę Ci tego, ale wiesz jak jest), warto czasem użyć funkcji eksportu do pliku i zapisać ten plik np. na Google Drive. Można ten plik potem zaimportować do aplikacji.
+Aby zminimalizować ryzyko utraty danych podczas utraty telefonu (nie życzę Ci tego, ale wiesz jak jest), warto czasem użyć funkcji eksportu do pliku i zapisać ten plik np. na Google Drive. Można go potem zaimportować do aplikacji.
 
 ### Wymagania systemowe
 Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje kompatybilność aż do Androida 8.0 Oreo. Jest to wersja Androida wydana w 2017 roku, więc jeśli twój telefon ma mniej niż 7 lat, będzie się nadawał 🙂.
 
-<div style="height: 200px;"></div>
+<div style="height: 100px;"></div>
+
+---
+*ostatnia aktualizacja informacji: 26.08.2024*
+
+<div style="height: 30px;"></div>
