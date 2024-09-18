@@ -43,19 +43,23 @@ a:hover {
     align-items: center;
 }
 
+.app-intro {
+    width: 70%;
+}
+
 .app-logo {
     min-width: 200px;
     width: 28%;
     margin-right: 2%;
 }
 
-.app-intro {
-    width: 70%;
-}
-
 .app-details-container {
     display: flex;
     align-items: center;
+}
+
+.app-details {
+    width: 65%;
 }
 
 .app-screenshot {
@@ -64,23 +68,26 @@ a:hover {
     margin-left: 3%;
 }
 
-.app-details {
-    width: 65%;
-}
-
 @media (max-width: 768px) {
     .app-intro-container {
         flex-direction: column;
     }
 
-    .app-logo {
+    .app-intro {
         width: 100%;
+    }
+
+    .app-logo {
+        width: 80%;
         margin-right: 0;
-        margin-bottom: 20px;
     }
 
     .app-details-container {
         flex-direction: column-reverse;
+    }
+
+    .app-details {
+        width: 100%;
     }
     
     .app-screenshot {
