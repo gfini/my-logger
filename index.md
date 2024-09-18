@@ -6,14 +6,14 @@ title: My Logger
 
 <div class="app-intro-container">
     <img src="img/logo.png" alt="logo aplikacji" class="app-logo">
-    <div>
+    <div class="app-intro">
         <h3>Co to za apka?</h3>
         <p>My Logger to aplikacja na Androida do prostego i szybkiego zapisywania dowolnych wydarzeń z Twojego życia w uporządkowany sposób. Kiedy ostatnio coś zrobiłeś lub kiedy coś się wydarzyło? Jak często coś się dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? 🤔 Jeśli kiedykolwiek zadawałeś sobie podobne pytania, ta aplikacja jest dla Ciebie! Zalogowanie wydarzenia zajmuje sekundy, a na dłuższą metę może dostarczyć Ci bardzo przydatnych informacji o Tobie i Twoim życiu.</p>
     </div>
 </div>
 
 <div class="app-details-container">
-    <div>
+    <div class="app-details">
         <h3>Co logować?</h3>
         <p>W tej aplikacji możesz śledzić dowolne wydarzenia – wystarczy, że stworzysz logger, np. „Baterie w pilocie TV” i już możesz rejestrować, jak często zmieniasz baterię w pilocie TV! Jeśli Twoja ulubiona firma produkująca baterie zacznie wytwarzać baterie o krótszym czasie działania, zauważysz to od razu! Oczywiście możesz też zbierać o wiele bardziej wartościowe dane – o Twoim zdrowiu, relacjach, finansach, pracy, czasie wolnym i rozwoju osobistym, n.p.:</p>
         <ul>
