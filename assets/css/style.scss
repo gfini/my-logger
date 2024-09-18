@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+/************ colors ************/
+
 .default {
     color: #fffce2;
     background-color: #162633;
@@ -32,4 +34,40 @@ a:hover {
 
 .markdown-body hr {
     height: 1px;
+}
+
+/************ mobile-aware side by side management ************/
+
+.app-intro-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.app-logo {
+    max-width: 250px;
+    margin-right: 20px;
+}
+
+.app-details-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+}
+
+.app-screenshot {
+    max-width: 300px;
+    margin-left: 70px;
+}
+
+@media (max-width: 768px) {
+    .app-logo {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    
+    .app-screenshot {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
 }

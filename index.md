@@ -4,15 +4,15 @@ title: My Logger
 ---
 # My Logger
 
-<div style="display: flex; align-items: center;">
-    <img src="img/logo.png" alt="logo aplikacji" style="max-width: 250px; margin-right: 20px;">
+<div class="app-intro-container">
+    <img src="img/logo.png" alt="logo aplikacji" class="app-logo">
     <div>
         <h3>Co to za apka?</h3>
         <p>My Logger to aplikacja na Androida do prostego i szybkiego zapisywania dowolnych wydarzeń z Twojego życia w uporządkowany sposób. Kiedy ostatnio coś zrobiłeś lub kiedy coś się wydarzyło? Jak często coś się dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? 🤔 Jeśli kiedykolwiek zadawałeś sobie podobne pytania, ta aplikacja jest dla Ciebie! Zalogowanie wydarzenia zajmuje sekundy, a na dłuższą metę może dostarczyć Ci bardzo przydatnych informacji o Tobie i Twoim życiu.</p>
     </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div class="app-details-container">
     <div>
         <h3>Co logować?</h3>
         <p>W tej aplikacji możesz śledzić dowolne wydarzenia – wystarczy, że stworzysz logger, np. „Baterie w pilocie TV” i już możesz rejestrować, jak często zmieniasz baterię w pilocie TV! Jeśli Twoja ulubiona firma produkująca baterie zacznie wytwarzać baterie o krótszym czasie działania, zauważysz to od razu! Oczywiście możesz też zbierać o wiele bardziej wartościowe dane – o Twoim zdrowiu, relacjach, finansach, pracy, czasie wolnym i rozwoju osobistym, n.p.:</p>
@@ -29,7 +29,7 @@ title: My Logger
         </ul>
         <p>Nie obawiaj się eksperymentować – jeśli uznasz, że logowanie danego wydarzenia Ci się nie przydaje, możesz zarchiwizować logger.</p>
     </div>
-    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" style="max-width: 300px; margin-left: 70px;">
+    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" class="app-screenshot">
 </div>
 
 ### Zostań testerem!
