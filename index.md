@@ -36,7 +36,7 @@ title: My Logger
                 <ul>
                     <li>wymiana czegoś: gąbki do mycia naczyń, szczoteczki, baterii 🔋, worka do odkurzacza...</li>
                     <li>coś wkurzającego, co ciągle dzieje się w Twojej pracy :P</li>
-                    <li>chodzenie do kina 🍿 lub teatru</li>
+                    <li>wyjście do kina 🍿 lub teatru</li>
                 </ul>
             </li>
             <li>to, co się dzieje w pewnym kontekście i chcesz to utrwalić
@@ -58,7 +58,7 @@ Zbieranie takich informacji nie tylko zaspokoi Twoją ciekawość, ale również
 - Pomoże Ci w podejmowaniu codziennych decyzji (bo już wiesz, czy ta droższa gąbka się opłaca, czy nie 😜).
 - Zwiększy Twoją świadomość, jak wygląda Twoje życie w aspektach, które monitorujesz. To z kolei ma całą gamę kolejnych korzyści:
     - Zwiększone poczucie kontroli nad własnym życiem. Da Ci to satysfakcję, spokój ducha, większą pewność siebie oraz motywację do zmiany na lepsze 🙂.
-    - Lepsze rozumienie siebie, co prowadzi do wielu korzyści emocjonalnych.
+    - Lepsze rozumienie siebie i swojego otoczenia, co prowadzi do wielu korzyści emocjonalnych i praktycznych.
     - Identyfikacja aspektów, które warto poprawić (dotyczących zdrowia, relacji, finansów, pracy, czasu dla siebie – co tylko sobie zalogujesz 😉).
     - Identyfikacja zasobów, z których korzystasz inaczej, niż byś chciał (czas, energia, pieniądze).
 
@@ -76,4 +76,4 @@ Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje 
 <div style="height: 50px;"></div>
 
 ---
-*ostatnia aktualizacja: 11.10.2024*
+*ostatnia aktualizacja: 12.10.2024*
