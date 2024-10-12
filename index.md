@@ -63,7 +63,7 @@ Zbieranie takich informacji nie tylko zaspokoi Twoją ciekawość, ale również
     - Identyfikacja zasobów, z których korzystasz inaczej, niż byś chciał (czas, energia, pieniądze).
 
 ### Zostań testerem!
-Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Google Play, ale w niedługim czasie zostaną uruchomione testy dla większego grona! Jeśli więc chcesz całkowicie za darmo otrzymać opisane wyżej korzyści, wypełnij [ten formularz](https://forms.gle/1XGxMdjh5RKmZWat8), a gdy zbierze się odpowiednia liczba chętnych, dostaniesz emaila z linkiem do aplikacji 😊📲.
+Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Google Play, ale w niedługim czasie zostaną uruchomione testy dla większego grona! Jeśli więc chcesz całkowicie za darmo otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a gdy zbierze się odpowiednia liczba chętnych, dostaniesz emaila z linkiem do aplikacji 😊📲.
 
 ### Dane i prywatność
 Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](privacy-policy).
