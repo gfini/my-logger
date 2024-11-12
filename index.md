@@ -20,8 +20,8 @@ title: My Logger
             <li>to, co chcesz robić częściej
                 <ul>
                     <li>aktywność fizyczna (spacer, konkretny sport 🏐🏊‍♂️⛳...)</li>
-                    <li>inna czynność prozdrowotna (rozciąganie, zimny prysznic, medytacja 🧘‍♀️)</li>
-                    <li>spotykanie ze znajomymi, rodziną ❤️</li>
+                    <li>inna czynność prozdrowotna (rozciąganie, zimny prysznic, medytacja 🧘‍♀️...)</li>
+                    <li>spotkania ze znajomymi, rodziną ❤️</li>
                     <li>czytanie książki 📖 z kawusią ☕</li>
                 </ul>
             </li>
@@ -41,7 +41,7 @@ title: My Logger
             </li>
             <li>to, co się dzieje w pewnym kontekście i chcesz to utrwalić
                 <ul>
-                    <li>szybki dziennik (np. wspomnienia z wakacji 🏝️, wyjątkowych wydarzeń)</li>
+                    <li>szybki dziennik (np. wspomnienia z wakacji 🏝️, wyjątkowych wydarzeń...)</li>
                     <li>kamienie milowe (np. projektu, procesu dążenia do celu 🎯, realizacji postanowienia...)</li>
                 </ul>
             </li>
@@ -63,12 +63,12 @@ Zbieranie takich informacji nie tylko zaspokoi Twoją ciekawość, ale również
     - Identyfikacja zasobów, z których korzystasz inaczej, niż byś chciał (czas, energia, pieniądze).
 
 ### Zostań testerem!
-Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Google Play, ale w niedługim czasie zostaną uruchomione testy dla większego grona! Jeśli więc chcesz całkowicie za darmo otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a gdy zbierze się odpowiednia liczba chętnych, dostaniesz emaila z linkiem do aplikacji 😊📲.
+Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Sklepie Play. Nadal jednak możesz ją mieć! Jeśli chcesz **całkowicie za darmo** otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a ja wpiszę Cię na listę testerów i wyślę e-maila z linkiem do aplikacji 😊📲.
 
 ### Dane i prywatność
 Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](privacy-policy).
 
-Jeśli chcesz zrobić *backup*, możesz użyć funkcji eksportu do pliku CSV i zapisać go np. na Google Drive. Możesz go potem zaimportować do aplikacji, co będzie przydatne podczas zmiany telefonu. W niedługim czasie planuję zaimplementować automatyczny backup, aby Twoje dane nie zostały utracone np. w przypadku utraty telefonu.
+Jeśli chcesz zabezpieczyć swoje dane na wypadek utraty telefonu, w ustawieniach możesz włączyć automatyczną kopię zapasową lub dokonać ręcznego eksportu danych do pliku CSV. Możesz go potem zaimportować do aplikacji na nowym urządzeniu.
 
 ### Wymagania systemowe
 Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje kompatybilność aż do Androida 8.0 Oreo. Jest to wersja Androida wydana w 2017 roku, więc jeśli twój telefon ma mniej niż 7 lat, będzie się nadawał 🙂.
@@ -76,4 +76,4 @@ Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje 
 <div style="height: 50px;"></div>
 
 ---
-*ostatnia aktualizacja: 12.10.2024*
+*ostatnia aktualizacja: 12.11.2024*
