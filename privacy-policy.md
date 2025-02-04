@@ -23,4 +23,4 @@ Prywatność użytkowników jest naszym priorytetem. Dlatego też aplikacja zost
 <div style="height: 10px;"></div>
 
 ---
-[Wróć do strony głównej](index)
+<a href="/">Przejdź do strony głównej</a>

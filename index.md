@@ -1,6 +1,6 @@
 ---
 layout: gradient
-title: My Logger
+title: O aplikacji
 ---
 # My Logger
 
