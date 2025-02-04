@@ -4,7 +4,7 @@ title: My Logger
 ---
 # My Logger
 
-<div class="app-intro-container">
+<div class="side-by-side">
     <img src="img/logo.png" alt="logo aplikacji" class="app-logo">
     <div class="app-intro">
         <h3>Co to za apka?</h3>
@@ -12,8 +12,8 @@ title: My Logger
     </div>
 </div>
 
-<div class="app-details-container">
-    <div class="app-details">
+<div class="side-by-side-reverse">
+    <div class="app-screenshot-description">
         <h3>Co logować?</h3>
         <p>W tej aplikacji możesz śledzić dowolne wydarzenia, więc żeby pomóc Ci się na coś zdecydować, proponuję następujące 4 kategorie:</p>
         <ol>
@@ -48,7 +48,7 @@ title: My Logger
         </ol>
         <p>Ogranicza Cię tylko Twoja wyobraźnia ✨ i ciekawość 🧐😊.</p>
     </div>
-    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" class="app-screenshot">
+    <img src="img/app-screen.png" alt="zrzut ekranu aplikacji" class="app-screenshot-right">
 </div>
 
 ### Korzyści z logowania
