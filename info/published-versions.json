@@ -1,10 +1,7 @@
-{
-    "versionNewFeaturesBaseUrl": "https://mylogger.gfini.com/version/",
-    "publishedVersions": [
-        {
-            "version": "1.5.1",
-            "sequenceNumber": 1,
-            "hasNewFeatures": true
-        }
-    ]
-}
+[
+    {
+        "version": "1.5.1",
+        "sequenceNumber": 1,
+        "hasNewFeatures": true
+    }
+]
