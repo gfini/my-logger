@@ -1,5 +1,10 @@
 [
     {
+        "version": "1.6.1-fake-for-testing",
+        "sequenceNumber": 2,
+        "hasNewFeatures": true
+    },
+    {
         "version": "1.5.1",
         "sequenceNumber": 1,
         "hasNewFeatures": true
