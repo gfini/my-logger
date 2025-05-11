@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Div Rotation with Perspective</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            perspective: 1000px; /* Perspective distance */
+        }
+
+        .rotating-div {
+            width: 200px;
+            height: 200px;
+            background-color: #3498db;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-size: 20px;
+            transition: transform 0.1s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="rotating-div">Rotate Me</div>
+    </div>
+
+    <script>
+        const rotatingDiv = document.querySelector('.rotating-div');
+
+        document.addEventListener('mousemove', (event) => {
+            // Get the center of the div
+            const rect = rotatingDiv.getBoundingClientRect();
+            const divCenterX = rect.left + rect.width / 2;
+            const divCenterY = rect.top + rect.height / 2;
+
+            // Calculate the distance from the cursor to the center of the div
+            const deltaX = event.clientX - divCenterX;
+            const deltaY = event.clientY - divCenterY;
+
+            // Determine the rotation amount
+            const rotateX = -deltaY / 40; // Adjust the divisor for sensitivity
+            const rotateY = deltaX / 40; // Adjust the divisor for sensitivity
+
+            // Apply the rotation to the div
+            rotatingDiv.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+        });
+    </script>
+</body>
+</html>
