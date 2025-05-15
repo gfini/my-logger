@@ -6,7 +6,7 @@
 /************ colors ************/
 
 html {
-    height: -webkit-fill-available; // this prevents double coloring when body is shorter than viewport
+    min-height: -webkit-fill-available; // this prevents double coloring when body is shorter than viewport
 }
 
 .default {
