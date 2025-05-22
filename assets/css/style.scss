@@ -66,6 +66,10 @@ a:hover {
     width: 65%;
 }
 
+.app-screenshot-description-30 {
+    width: 30%;
+}
+
 .app-screenshot-right {
     min-width: 250px;
     width: 32%;
@@ -75,6 +79,12 @@ a:hover {
 .app-screenshot-left {
     min-width: 250px;
     width: 32%;
+    margin-right: 3%;
+}
+
+.app-screenshot-left-70 {
+    min-width: 250px;
+    width: 67%;
     margin-right: 3%;
 }
 
@@ -103,6 +113,10 @@ a:hover {
     .app-screenshot-description {
         width: 100%;
     }
+
+    .app-screenshot-description-30 {
+        width: 100%;
+    }
     
     .app-screenshot-right {
         width: 100%;
@@ -112,6 +126,13 @@ a:hover {
     }
     
     .app-screenshot-left {
+        width: 100%;
+        margin-right: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .app-screenshot-left-70 {
         width: 100%;
         margin-right: 0;
         margin-top: 20px;
