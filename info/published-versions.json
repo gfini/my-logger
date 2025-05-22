@@ -1,5 +1,10 @@
 [
     {
+        "version": "1.6.1-i",
+        "sequenceNumber": 3,
+        "hasNewFeatures": false
+    },
+    {
         "version": "1.6.0-i",
         "sequenceNumber": 2,
         "hasNewFeatures": true
