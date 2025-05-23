@@ -1,3 +1,3 @@
-This repository holds a website with public information about the My Logger app for Android.
+This branch of the repository is functional and holds files with information for closed testers of the My Logger app for Android.
 
-Checkout the website here: [mylogger.gfini.com](https://mylogger.gfini.com/)
+- [published-versions.json](info/published-versions.json) - this file contains information about versions of the app published on "closed testing" track
