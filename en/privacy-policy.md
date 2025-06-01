@@ -20,7 +20,7 @@ The app does not contain any advertisements or tracking code. User behavior with
 
 The app connects to the internet solely to fetch data shared by the developer via a [public repository on GitHub](https://github.com/gfini/my-logger). This includes, for example, information about the availability of new versions of the app.
 
-The data controller (if any data were to be collected) is ABC, located at Poetów 10A/7, 03-147 Warszawa, NIP: 524-297-12-82, REGON: 525246306. If you have any questions, please contact the developer at mylogger@gfini.com.
+The data controller (if any data were to be collected) is Grzegorz Fijałkowski Initiatives, located at Poetów 10A/7, 03-147 Warszawa, NIP: 524-297-12-82, REGON: 525246306. If you have any questions, please contact the developer at mylogger@gfini.com.
 
 This privacy policy may be updated. Any changes will be published on this page. Users are encouraged to check this page regularly to stay informed about any updates. In the event of significant changes to the policy, users will be notified directly within the app.
 
