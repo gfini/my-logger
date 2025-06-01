@@ -2,6 +2,12 @@
 layout: default
 title: Polityka prywatności
 ---
+<div class="language-bar">
+    <a href="/en/privacy-policy">
+        <img src="/img/flags/en.png" alt="english" class="flag" />
+    </a>
+</div>
+
 ## Polityka Prywatności Danych Osobowych Aplikacji My Logger
 
 *W obecnej formie obowiązuje od 23.05.2025. Historia zmian jest dostępna [tutaj](https://github.com/gfini/my-logger/commits/main/polityka-prywatnosci.md).*
