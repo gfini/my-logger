@@ -2,6 +2,12 @@
 layout: gradient
 title: O aplikacji
 ---
+<div class="language-bar">
+    <a href="/en/">
+        <img src="/img/flags/en.png" alt="english" class="flag" />
+    </a>
+</div>
+
 # My Logger
 
 <div class="side-by-side">
@@ -66,7 +72,7 @@ Zbieranie takich informacji nie tylko zaspokoi Twoją ciekawość, ale również
 Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Sklepie Play. Nadal jednak możesz ją mieć! Jeśli chcesz **całkowicie za darmo** otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a ja dam Ci dostęp do wersji beta i wyślę e-maila z linkiem do aplikacji 😊📲.
 
 ### Dane i prywatność
-Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](privacy-policy).
+Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](polityka-prywatnosci).
 
 Jeśli chcesz zabezpieczyć swoje dane na wypadek utraty telefonu, w ustawieniach możesz włączyć automatyczną kopię zapasową lub dokonać ręcznego eksportu danych do pliku CSV. Możesz go potem zaimportować do aplikacji na nowym urządzeniu.
 
@@ -76,4 +82,4 @@ Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje 
 <div style="height: 50px;"></div>
 
 ---
-*ostatnia aktualizacja: 20.11.2024*
+*ostatnia aktualizacja: 02.06.2025*

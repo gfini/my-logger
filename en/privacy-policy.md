@@ -3,7 +3,7 @@ layout: default
 title: Privacy policy
 ---
 <div class="language-bar">
-    <a href="../polityka-prywatnosci">
+    <a href="/polityka-prywatnosci">
         <img src="/img/flags/pl.png" alt="polski" class="flag" />
     </a>
 </div>
@@ -29,4 +29,4 @@ User privacy is our priority. That is why the app is designed to minimize any co
 <div style="height: 10px;"></div>
 
 ---
-<a href="/">Go to the homepage</a>
+<a href="/en/">Go to the homepage</a>
