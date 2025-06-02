@@ -11,7 +11,7 @@ title: About the app
 # My Logger
 
 <div class="side-by-side">
-    <img src="img/logo.png" alt="app logo" class="app-logo">
+    <img src="/img/logo.png" alt="app logo" class="app-logo">
     <div class="app-intro">
         <h3>What is this app?</h3>
         <p>My Logger is an Android app for simply and quickly recording any events from your life in an organized way. When was the last time <i>x</i> happened? 🤔 How often does it happen? How many times did it happen in the past month? Below, I provide examples and explain how powerful 💪 answers to such questions can be!</p>
@@ -54,7 +54,7 @@ title: About the app
         </ol>
         <p>Your only limits are your imagination ✨ and curiosity 🧐😊.</p>
     </div>
-    <img src="img/app-screen.png" alt="app screenshot" class="app-screenshot-right">
+    <img src="/img/app-screen.png" alt="app screenshot" class="app-screenshot-right">
 </div>
 
 ### Benefits of logging
@@ -72,7 +72,7 @@ Collecting this kind of information will not only satisfy your curiosity but als
 You're one of the lucky people who found this page very early! 🎉 The app is currently in development and not publicly available on the Play Store. But you can still get it! If you want to receive the benefits described above **completely for free**, fill out <a href="https://forms.gle/2hEkZGoRS87F9Q7T6" target="_blank">this form</a>, and I’ll give you access to the beta version and send you an email with a link to the app 😊📲.
 
 ### Data and privacy
-Currently, all the data you enter into the app is stored on your phone. I have no access to this data and do not collect any of your information without your consent. You can check the [privacy policy](en/privacy-policy) here.
+Currently, all the data you enter into the app is stored on your phone. I have no access to this data and do not collect any of your information without your consent. You can check the [privacy policy](privacy-policy) here.
 
 If you want to protect your data in case you lose your phone, you can enable automatic backups in the settings or manually export your data to a CSV file. You can then import it into the app on a new device.
 
