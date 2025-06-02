@@ -14,7 +14,7 @@ title: About the app
     <img src="/img/logo.png" alt="app logo" class="app-logo">
     <div class="app-intro">
         <h3>What is this app?</h3>
-        <p>My Logger is an Android app for simply and quickly recording any events from your life in an organized way. When was the last time <i>x</i> happened? 🤔 How often does it happen? How many times did it happen in the past month? Below, I provide examples and explain how powerful 💪 answers to such questions can be!</p>
+        <p>My Logger is an Android app that lets you easily log and track any events from your life in an organized way. When was the last time <i>x</i> happened? 🤔 How often does it happen? How many times did it happen in the past month? Is it happening more and more often, or less and less? Below, I provide examples and explain how powerful 💪 answers to such questions can be!</p>
     </div>
 </div>
 
@@ -65,19 +65,19 @@ Collecting this kind of information will not only satisfy your curiosity but als
 - Increase your awareness of what your life really looks like in the areas you monitor. That brings a range of further benefits:
     - Greater sense of control over your life. This gives you satisfaction, peace of mind, more confidence, and motivation to change for the better 🙂.
     - Better understanding of yourself and your surroundings, which leads to many emotional and practical benefits.
-    - Identification of areas worth improving (related to health, relationships, finances, work, personal time—whatever you choose to log 😉).
+    - Identification of areas worth improving (related to health, relationships, finances, work, personal time — whatever you choose to log 😉).
     - Recognition of resources you're using differently than you’d like (time, energy, money).
 
 ### Try the beta version!
-You're one of the lucky people who found this page very early! 🎉 The app is currently in development and not publicly available on the Play Store. But you can still get it! If you want to receive the benefits described above **completely for free**, fill out <a href="https://forms.gle/2hEkZGoRS87F9Q7T6" target="_blank">this form</a>, and I’ll give you access to the beta version and send you an email with a link to the app 😊📲.
+You're one of the lucky people who found this page very early! 🎉 The app is currently in development and not publicly available on the Play Store. But you can still get it! If you want to receive the benefits described above **completely for free**, fill out <a href="https://forms.gle/2hEkZGoRS87F9Q7T6" target="_blank">this form</a>, and I'll give you access to the beta version and send you an email with a link to the app 😊📲.
 
 ### Data and privacy
-Currently, all the data you enter into the app is stored on your phone. I have no access to this data and do not collect any of your information without your consent. You can check the [privacy policy](privacy-policy) here.
+Currently, all the data you enter into the app is stored on your phone. I have no access to this data and do not collect any of your information without your consent. You can check the [privacy policy](privacy-policy).
 
-If you want to protect your data in case you lose your phone, you can enable automatic backups in the settings or manually export your data to a CSV file. You can then import it into the app on a new device.
+If you want to protect your data in case you lose your phone, you can enable automatic backups in the app settings or manually export your data to a CSV file. You can then import it into the app on a new device.
 
 ### System requirements
-The app is being developed for the latest Android systems, but it remains compatible down to Android 8.0 Oreo. This version was released in 2017, so if your phone is less than 7 years old, it should work just fine 🙂.
+The app is targeting Android 14 currently (Android 15 will be supported soon), but it remains compatible down to Android 8.0 Oreo. So if your phone is less than 8 years old, it should work just fine 🙂.
 
 <div style="height: 50px;"></div>
 

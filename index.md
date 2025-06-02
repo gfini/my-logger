@@ -14,7 +14,7 @@ title: O aplikacji
     <img src="img/logo.png" alt="logo aplikacji" class="app-logo">
     <div class="app-intro">
         <h3>Co to za apka?</h3>
-        <p>My Logger to aplikacja na Androida do prostego i szybkiego zapisywania dowolnych wydarzeń z Twojego życia w uporządkowany sposób. Kiedy ostatnio wydarzyło się <i>x</i>? 🤔 Jak często się to dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? Poniżej podaję przykłady i wyjaśniam, jak potężne 💪 mogą być odpowiedzi na takie pytania!</p>
+        <p>My Logger to aplikacja na Androida, która pozwala szybko i wygodnie zapisywać (logować) i śledzić wydarzenia z Twojego życia w uporządkowany sposób. Kiedy ostatnio wydarzyło się <i>x</i>? 🤔 Jak często się to dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? Dzieje się to coraz częściej, czy coraz rzadziej? Poniżej podaję przykłady i wyjaśniam, jak potężne 💪 mogą być odpowiedzi na takie pytania!</p>
     </div>
 </div>
 
@@ -77,7 +77,7 @@ Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim t
 Jeśli chcesz zabezpieczyć swoje dane na wypadek utraty telefonu, w ustawieniach możesz włączyć automatyczną kopię zapasową lub dokonać ręcznego eksportu danych do pliku CSV. Możesz go potem zaimportować do aplikacji na nowym urządzeniu.
 
 ### Wymagania systemowe
-Aplikacja jest tworzona pod kątem najnowszych systemów Android, ale zachowuje kompatybilność aż do Androida 8.0 Oreo. Jest to wersja Androida wydana w 2017 roku, więc jeśli twój telefon ma mniej niż 7 lat, będzie się nadawał 🙂.
+Aplikacja jest obecnie dostosowana do Androida 14 (wkrótce pojawi się wsparcie dla Androida 15), ale zachowuje kompatybilność aż do Androida 8.0 Oreo. Jeśli więc twój telefon ma mniej niż 8 lat, będzie się nadawał 🙂.
 
 <div style="height: 50px;"></div>
 
