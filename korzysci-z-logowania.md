@@ -2,11 +2,6 @@
 layout: gradient
 title: O aplikacji
 ---
-<div class="language-bar">
-    <a href="/en/">
-        <img src="/img/flags/en.png" alt="english" class="flag" />
-    </a>
-</div>
 
 # Korzyści z logowania
 Zbieranie informacji o wydarzeniach z Twojego życia oraz działaniach, które podejmujesz, nie tylko zaspokoi Twoją ciekawość, ale również:
