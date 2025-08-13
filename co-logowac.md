@@ -33,14 +33,14 @@ W tej aplikacji możesz śledzić dowolne wydarzenia i działania. Jeśli nic ni
    - szybki dziennik (np. wspomnienia z wakacji 🏝️, wyjątkowych wydarzeń...)
    - kamienie milowe (np. projektu, procesu dążenia do celu 🎯, realizacji postanowienia...)
 
-Ekran główny aplikacji będzie wyglądać tak:
+Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐😊.
+
+<div style="height: 10px;"></div>
 
 <div class="side-by-side">
     <p>Ekran główny aplikacji będzie wyglądać tak:</p>
     <img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
 </div>
-
-Ogranicza Cię tylko Twoja wyobraźnia ✨ i ciekawość 🧐😊.
 
 <div style="height: 10px;"></div>
 
