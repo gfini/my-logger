@@ -28,6 +28,7 @@ title: O aplikacji
             <li>nieograniczona liczba loggerów (wydarzeń lub działań, które śledzisz)</li>
             <li>nieograniczona liczba logów (wpisów w loggerze)</li>
             <li>wyszukiwanie loggerów (przydatne, gdy masz ich już sporo 😉)</li>
+            <li>przypinanie (gwiazdkowanie ⭐) loggerów</li>
             <li>archiwizowanie loggerów</li>
             <li><a href="/version/1.6#nowy-wygląd-statystyk-📊">statystyki</a> (na razie liczbowe, ze wskaźnikami trendu ⬆️⬇️)</li>
             <li><a href="/version/1.5#klepsydry-⏳">elastyczny system przypominania</a>, że już czas ⏳ na kolejnego loga</li>
