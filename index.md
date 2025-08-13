@@ -29,8 +29,8 @@ title: O aplikacji
             <li>nieograniczona liczba logów (wpisów w loggerze)</li>
             <li>wyszukiwanie loggerów (przydatne, gdy masz ich już sporo 😉)</li>
             <li>archiwizowanie loggerów</li>
-            <li>[statystyki](/version/1.6#nowy-wygląd-statystyk-📊) (na razie liczbowe, ze wskaźnikiem trendu ⬆️⬇️)</li>
-            <li>[elastyczny system przypominania](/version/1.5#klepsydry-⏳), że już czas ⏳ na kolejnego loga</li>
+            <li><a href="/version/1.6#nowy-wygląd-statystyk-📊">statystyki</a> (na razie liczbowe, ze wskaźnikami trendu ⬆️⬇️)</li>
+            <li><a href="/version/1.5#klepsydry-⏳">elastyczny system przypominania</a>, że już czas ⏳ na kolejnego loga</li>
             <li>eksport danych do pliku, w tym możliwość automatycznego, codziennego zapisu np. na Google Drive</li>
         </ul>
     </div>
