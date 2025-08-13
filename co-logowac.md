@@ -35,12 +35,9 @@ W tej aplikacji możesz śledzić dowolne wydarzenia i działania. Jeśli nic ni
 
 Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐😊.
 
-<div style="height: 10px;"></div>
+Ekran główny aplikacji będzie wyglądać tak:
 
-<div class="side-by-side">
-    <p>Ekran główny aplikacji będzie wyglądać tak:</p>
-    <img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
-</div>
+<img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-middle">
 
 <div style="height: 10px;"></div>
 
