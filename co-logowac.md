@@ -38,7 +38,9 @@ Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐😊.
 <div style="height: 10px;"></div>
 
 <div class="side-by-side-middle">
-    <p>Ekran główny aplikacji będzie wyglądać tak:</p>
+    <div class="app-screenshot-description-30">
+        <p>Ekran główny aplikacji będzie wyglądać tak:</p>
+    </div>
     <img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
 </div>
 
