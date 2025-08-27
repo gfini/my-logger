@@ -39,12 +39,12 @@ You’re one of the lucky people who found this very early! 🎉 The app is stil
 
 ### Want to know more?
 Maybe I’ve already overwhelmed you with information, but if not, check out these articles!
-- [Benefits of logging](/en/article/benefits-of-logging.md)
+- [Benefits of logging](article/benefits-of-logging.md)
 - [planned] real-life examples of my own loggers
 - [planned] tips on how to use the app to its full potential
 
 ### Data and privacy
-Currently, all data you enter into the app is stored on your phone. I do not have access to this data and I do not collect any of your information without your consent. You can check the [privacy policy](/en/privacy-policy.md) here.
+Currently, all data you enter into the app is stored on your phone. I do not have access to this data and I do not collect any of your information without your consent. You can check the [privacy policy](privacy-policy.md) here.
 
 If you want to secure your data in case of phone loss, in the settings you can enable automatic backup or manually export your data to a CSV file. You can then import it into the app on a new device.
 
