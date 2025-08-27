@@ -10,8 +10,21 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
-  <body class="default">
+  <body class="{{ page.body_class | default: "default" }}">
     <div class="container-lg px-3 my-5 markdown-body">
+      <div class="language-bar">
+        {% if page.en_version %}
+          <a href="{{ page.en_version }}">
+            <img src="/img/flags/en.png" alt="english" class="flag" />
+          </a>
+        {% endif %}
+
+        {% if page.pl_version %}
+          <a href="{{ page.pl_version }}">
+            <img src="/img/flags/pl.png" alt="polski" class="flag" />
+          </a>
+        {% endif %}
+      </div>
       {{ content }}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>

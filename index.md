@@ -1,12 +1,9 @@
 ---
-layout: gradient
+layout: default
 title: O aplikacji
+body_class: gradient-background
+en_version: /en/
 ---
-<div class="language-bar">
-    <a href="/en/">
-        <img src="/img/flags/en.png" alt="english" class="flag" />
-    </a>
-</div>
 
 # My Logger
 
