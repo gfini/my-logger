@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Privacy policy
+body_class: formal
+pl_version: /polityka-prywatnosci
 ---
-<div class="language-bar">
-    <a href="/polityka-prywatnosci">
-        <img src="/img/flags/pl.png" alt="polski" class="flag" />
-    </a>
-</div>
 
 ## My Logger App Privacy Policy
 

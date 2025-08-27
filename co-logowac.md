@@ -1,5 +1,5 @@
 ---
-layout: gradient
+layout: default
 title: O aplikacji
 ---
 

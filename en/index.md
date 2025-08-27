@@ -1,12 +1,8 @@
 ---
-layout: gradient
+layout: default
 title: About the app
+pl_version: /
 ---
-<div class="language-bar">
-    <a href="/">
-        <img src="/img/flags/pl.png" alt="polski" class="flag" />
-    </a>
-</div>
 
 # My Logger
 

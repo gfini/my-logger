@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Polityka prywatności
+body_class: formal
+en_version: /en/privacy-policy
 ---
-<div class="language-bar">
-    <a href="/en/privacy-policy">
-        <img src="/img/flags/en.png" alt="english" class="flag" />
-    </a>
-</div>
 
 ## Polityka Prywatności Danych Osobowych Aplikacji My Logger
 

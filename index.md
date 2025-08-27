@@ -1,7 +1,6 @@
 ---
 layout: default
 title: O aplikacji
-body_class: gradient-background
 en_version: /en/
 ---
 
