@@ -26,12 +26,12 @@ pl_version: /
             <li>searching loggers (useful once you have quite a few 😉)</li>
             <li>pinning (starring ⭐) loggers</li>
             <li>archiving loggers</li>
-            <li><a href="/version/1.6#nowy-wygląd-statystyk-📊">statistics</a> (currently numerical, with trend indicators ⬆️⬇️)</li>
-            <li><a href="/version/1.5#klepsydry-⏳">flexible reminder system</a> that tells you when it’s time ⏳ for another log</li>
+            <li><a href="/en/version/1.6#new-look-for-statistics-📊">statistics</a> (currently numerical, with trend indicators ⬆️⬇️)</li>
+            <li><a href="/en/version/1.5#hourglasses-⏳">flexible reminder system</a> that tells you when it’s time ⏳ for another log</li>
             <li>data export to file, including the option of automatic daily backup e.g. to Google Drive</li>
         </ul>
     </div>
-    <img src="/img/app-screen.png" alt="screenshot of the main app screen" class="app-screenshot-right">
+    <img src="/img/en/app-screen.png" alt="screenshot of the main app screen" class="app-screenshot-right">
 </div>
 
 ### Try the beta version!

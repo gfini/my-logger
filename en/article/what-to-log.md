@@ -43,10 +43,10 @@ The only limit is your imagination 🌌 and curiosity 🧐😊.
     <div class="app-screenshot-description-32">
         <p>The main screen of the app will look like this:</p>
     </div>
-    <img src="../img/app-screen.png" alt="screenshot of the main app screen" class="app-screenshot-right">
+    <img src="../../img/en/app-screen.png" alt="screenshot of the main app screen" class="app-screenshot-right">
 </div>
 
 <div style="height: 10px;"></div>
 
 ---
-<a href="/">Go to the homepage</a>
+<a href="/en/">Go to the homepage</a>

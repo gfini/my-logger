@@ -18,4 +18,4 @@ Collecting this kind of information will not only satisfy your curiosity but als
 <div style="height: 10px;"></div>
 
 ---
-<a href="/">Przejdź do strony głównej</a>
+<a href="/en/">Go to the homepage</a>
