@@ -10,7 +10,7 @@ en_version: /en/
     <img src="img/logo.png" alt="logo aplikacji" class="app-logo">
     <div class="app-intro">
         <h3>Co to za apka?</h3>
-        <p>My Logger to aplikacja na Androida, która pozwala szybko i wygodnie zapisywać (logować) i śledzić wydarzenia z Twojego życia w uporządkowany sposób. Kiedy ostatnio wydarzyło się <i>coś</i>? 🤔 Jak często się to dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? Dzieje się to coraz częściej, czy coraz rzadziej? A może już czas, by wydarzyło się znów? Z My Loggerem odpowiedzi będziesz mieć zawsze pod ręką! 💪</p>
+        <p>My Logger to aplikacja na Androida, która pozwala szybko i wygodnie zapisywać (logować) i śledzić wydarzenia z Twojego życia w uporządkowany sposób. Kiedy ostatnio wydarzyło się <i>x</i>? 🤔 Jak często się to dzieje? Ile razy wydarzyło się to w ciągu ostatniego miesiąca? Dzieje się to coraz częściej, czy coraz rzadziej? A może już czas, by wydarzyło się znów? Z My Loggerem odpowiedzi będziesz mieć zawsze pod ręką! 💪</p>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ en_version: /en/
 
 ### Chcesz wiedzieć więcej?
 Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz przeciwnie, zerknij na te artykuły!
-- [Korzyści z logowania](artykul/korzysci-z-logowania.md)
+- [Korzyści z logowania](/artykul/korzysci-z-logowania.md)
 - [w planach] real-life przykłady moich własnych loggerów
 - [w planach] tipy, jak wykorzystać pełen potencjał aplikacji
 

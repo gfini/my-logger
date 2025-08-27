@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O aplikacji
+en_version: /en/article/what-to-log
 ---
 
 # Co logować?
@@ -41,7 +42,7 @@ Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐😊.
     <div class="app-screenshot-description-32">
         <p>Ekran główny aplikacji będzie wyglądać tak:</p>
     </div>
-    <img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
+    <img src="../img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
 </div>
 
 <div style="height: 10px;"></div>

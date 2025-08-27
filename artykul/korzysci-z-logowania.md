@@ -1,6 +1,7 @@
 ---
 layout: default
 title: O aplikacji
+en_version: /en/article/benefits-of-logging
 ---
 
 # Korzyści z logowania
