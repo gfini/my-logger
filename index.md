@@ -39,7 +39,7 @@ Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie!
 
 ### Chcesz wiedzieć więcej?
 Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz przeciwnie, zerknij na te artykuły!
-- [Korzyści z logowania](artykul/korzysci-z-logowania.md)
+- [Korzyści z logowania](artykul/korzysci-z-logowania)
 - [w planach] real-life przykłady moich własnych loggerów
 - [w planach] tipy, jak wykorzystać pełen potencjał aplikacji
 
