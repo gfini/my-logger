@@ -17,7 +17,7 @@ en_version: /en/
 <div class="side-by-side-reverse">
     <div class="app-screenshot-description">
         <h3>Co logować?</h3>
-        <p>W tej aplikacji możesz śledzić dowolne wydarzenia i działania. Wiem, że to dość ogólny opis, dlatego nie martw się, jeśli nic nie przychodzi Ci do głowy! Żeby zdobyć trochę inspiracji ✨, możesz zerknąć na <a href="/co-logowac">ten artykuł</a>, w którym zaproponowałem kilka kategorii wraz z konkretnymi przykładami 😊.</p>
+        <p>W tej aplikacji możesz śledzić dowolne wydarzenia i działania. Wiem, że to dość ogólny opis, dlatego nie martw się, jeśli nic nie przychodzi Ci do głowy! Żeby zdobyć trochę inspiracji ✨, możesz zerknąć na <a href="/artykul/co-logowac">ten artykuł</a>, w którym zaproponowałem kilka kategorii wraz z konkretnymi przykładami 😊.</p>
         <p>Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐.</p>
         <h3>Podstawowe funkcje</h3>
         <ul>
@@ -36,7 +36,7 @@ en_version: /en/
 
 ### Chcesz wiedzieć więcej?
 Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz przeciwnie, zerknij na te artykuły!
-- [Korzyści z logowania](korzysci-z-logowania)
+- [Korzyści z logowania](artykul/korzysci-z-logowania.md)
 - [w planach] real-life przykłady moich własnych loggerów
 - [w planach] tipy, jak wykorzystać pełen potencjał aplikacji
 
