@@ -34,14 +34,14 @@ pl_version: /
     <img src="/img/app-screen.png" alt="screenshot of the main app screen" class="app-screenshot-right">
 </div>
 
+### Try the beta version!
+You’re one of the lucky people who found this very early! 🎉 The app is still in development and not yet publicly available in the Play Store. But you can still get it! If you want to enjoy all the benefits described above **completely free of charge**, fill out <a href="https://forms.gle/2hEkZGoRS87F9Q7T6" target="_blank">this form</a>, and I’ll give you access to the beta version and send you an email with a link to the app 😊📲.
+
 ### Want to know more?
 Maybe I’ve already overwhelmed you with information, but if not, check out these articles!
 - [Benefits of logging](/en/article/benefits-of-logging.md)
 - [planned] real-life examples of my own loggers
 - [planned] tips on how to use the app to its full potential
-
-### Try the beta version!
-You’re one of the lucky people who found this very early! 🎉 The app is still in development and not yet publicly available in the Play Store. But you can still get it! If you want to enjoy all the benefits described above **completely free of charge**, fill out <a href="https://forms.gle/2hEkZGoRS87F9Q7T6" target="_blank">this form</a>, and I’ll give you access to the beta version and send you an email with a link to the app 😊📲.
 
 ### Data and privacy
 Currently, all data you enter into the app is stored on your phone. I do not have access to this data and I do not collect any of your information without your consent. You can check the [privacy policy](/en/privacy-policy.md) here.

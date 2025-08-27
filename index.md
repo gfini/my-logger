@@ -34,14 +34,14 @@ en_version: /en/
     <img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
 </div>
 
+### Wypróbuj wersję beta!
+Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Sklepie Play. Nadal jednak możesz ją mieć! Jeśli chcesz **całkowicie za darmo** otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a ja dam Ci dostęp do wersji beta i wyślę e-maila z linkiem do aplikacji 😊📲.
+
 ### Chcesz wiedzieć więcej?
 Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz przeciwnie, zerknij na te artykuły!
 - [Korzyści z logowania](/artykul/korzysci-z-logowania.md)
 - [w planach] real-life przykłady moich własnych loggerów
 - [w planach] tipy, jak wykorzystać pełen potencjał aplikacji
-
-### Wypróbuj wersję beta!
-Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Sklepie Play. Nadal jednak możesz ją mieć! Jeśli chcesz **całkowicie za darmo** otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a ja dam Ci dostęp do wersji beta i wyślę e-maila z linkiem do aplikacji 😊📲.
 
 ### Dane i prywatność
 Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](polityka-prywatnosci).
