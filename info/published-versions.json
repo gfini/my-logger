@@ -1,10 +1,5 @@
 [
     {
-        "version": "1.7.5-fake-i",
-        "sequenceNumber": 13,
-        "hasNewFeatures": false
-    },
-    {
         "version": "1.7.5-i",
         "sequenceNumber": 12,
         "hasNewFeatures": false
