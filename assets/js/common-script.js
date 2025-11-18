@@ -8,4 +8,4 @@ function notifyDiscord(message) {
     });
 }
 
-notifyDiscord(`Someone visited ${window.location.href}`);
+notifyDiscord(`Someone visited ${window.location.href}\nOn screen size ${window.innerWidth}x${window.innerHeight} px`);
