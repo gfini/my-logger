@@ -1,25 +1,61 @@
 # Short description
 
-Collect data about your life.
+Track daily events, habits, and routines. Discover your rhythm.
 
 ============================================================
 
 # Full description
 
-My Logger is an app designed for quick and easy logging of any events in your life in an organized way. When was the last time x happened? 🤔 How often does it occur? How many times did it happen over the past month?
+## My Logger – What is it?
 
-In this app, you can track anything, but to help you decide what to focus on, I suggest the following four categories:
+My Logger is a simple app that helps you quickly log and track events from your life in an organized way.
 
-1. Things you want to do more often,
-2. Things you want to do less frequently,
-3. Things you’re simply curious about, in terms of how often they happen,
-4. Things that happen in a certain context and you’d like to record.
+It helps you answer questions like:
+- When did something last happen?
+- How often does it happen?
+- Is it happening more or less often?
+- How many times did it happen recently?
 
-Collecting such information will not only satisfy your curiosity but also:
+With My Logger, these answers are always at your fingertips.
 
-- Help you quickly recall when and what occurred.
-- Assist you in setting specific (because they are numeric), measurable (because you have a logger), and realistic (because you know your current status) goals and resolutions.
-- Aid you in making everyday decisions, as you’ll have useful information at your fingertips.
-- Increase your awareness of how your life looks in the areas you monitor, leading to a range of further benefits!
+---
 
-This app could change your life.
+## What can you log?
+
+You can track any events, habits, or activities. Here are some examples of how you can use it:
+
+**Things you want to do more often:**
+- physical activity (walking, sports, exercises)
+- healthy habits (stretching, cold showers, meditation)
+- time with friends and family
+- reading books
+
+**Things you want to do less often:**
+- unhealthy habits (alcohol, smoking, nail biting)
+- fast food and sweets
+- excessive phone use / social media
+
+**Things you want to do regularly:**
+- cleaning and tidying
+- watering plants
+- household chores
+
+**Things you just want to track the frequency of:**
+- replacing items (toothbrushes, batteries, sponges)
+- annoying repetitive situations
+- going to the cinema or theater
+
+**Things you want to remember:**
+- quick journaling (vacations, special moments)
+- milestones in projects or goals
+
+---
+
+## Why use My Logger?
+
+- fast and easy logging
+- clear event history
+- better awareness of your habits
+- full freedom of use
+
+Your imagination is the only limit.
