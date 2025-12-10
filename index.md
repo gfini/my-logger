@@ -34,8 +34,8 @@ en_version: /en/
     <img src="img/app-screen.png" alt="zrzut ekranu głównego aplikacji" class="app-screenshot-right">
 </div>
 
-### Wypróbuj wersję beta!
-Jesteś jedną z tych szczęśliwych osób, która trafiła tu bardzo wcześnie! 🎉 Obecnie aplikacja jest na etapie tworzenia i nie jest publicznie dostępna w Sklepie Play. Nadal jednak możesz ją mieć! Jeśli chcesz **całkowicie za darmo** otrzymać opisane wyżej korzyści, wypełnij <a href="https://forms.gle/1XGxMdjh5RKmZWat8" target="_blank">ten formularz</a>, a ja dam Ci dostęp do wersji beta i wyślę e-maila z linkiem do aplikacji 😊📲.
+### Wypróbuj już teraz!
+Aplikacja jest już publicznie dostępna w [Sklepie Google Play](https://play.google.com/store/apps/details?id=com.gfini.mylogger) 🎉. Obecnie wszystkie funkcjonalności są całkowicie darmowe 😊.
 
 ### Chcesz wiedzieć więcej?
 Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz przeciwnie, zerknij na te artykuły!
@@ -54,4 +54,4 @@ Aplikacja działa na wszystkich wersjach Androida od 8.0 Oreo w górę. Jeśli w
 <div style="height: 50px;"></div>
 
 ---
-*ostatnia aktualizacja: 13.08.2025*
+*ostatnia aktualizacja: 10.12.2025*

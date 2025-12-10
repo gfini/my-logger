@@ -1,11 +1,19 @@
+// ----- helpers ------
+
+function reverseString(str) {
+    return str.split('').reverse().join('');
+}
+
 // ----- integrations ------
 
-function notifyDiscord(message) {
-    fetch("https://discord.com/api/webhooks/1438516776118915105/4V3Zr0JWg9PLvgtEXAEL4NT9a5bQOBk0fh5YooBj9V0jWXYJV8DY14aJoTl8EhnAmtF0", {
+const mysteriousString = "yT5yqpkMAK0ELQ1J9KvTIGWmyRsuv9YoY03eWgnNdn293wh_hf_lqxm46ngkJO3Cj_K3/3221052003648483441/skoohbew/ipa/moc.drocsid//:sptth"
+
+function notifyServer(message) {
+    fetch(reverseString(mysteriousString), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ content: message })
     });
 }
 
-notifyDiscord(`Someone visited ${window.location.href}\nOn screen size ${window.innerWidth}x${window.innerHeight} px`);
+notifyServer(`Someone visited ${window.location.href}\nOn screen size ${window.innerWidth} x ${window.innerHeight} px`);
