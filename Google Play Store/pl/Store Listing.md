@@ -1,61 +1,59 @@
 # Short description
 
-Śledź codzienne zdarzenia, nawyki i rutyny. Poznaj swój rytm.
+Śledź codzienne zdarzenia, nawyki i rutyny. Zyskaj świadomość.
 
 ============================================================
 
 # Full description
 
-## My Logger – co to jest?
+MY LOGGER – CO TO JEST?
 
-My Logger to prosta aplikacja, która pozwala szybko zapisywać i śledzić wydarzenia z Twojego życia w uporządkowany sposób.
+My Logger to proste narzędzie, które pozwala szybko zapisywać i śledzić wydarzenia z Twojego życia w uporządkowany sposób.
 
 Pomaga odpowiedzieć na pytania typu:
-- Kiedy ostatnio coś się wydarzyło?
-- Jak często to się dzieje?
-- Czy dzieje się częściej czy rzadziej?
-- Ile razy zdarzyło się to w ostatnim czasie?
+✔ Kiedy ostatnio coś się wydarzyło?
+✔ Jak często się to dzieje?
+✔ Czy dzieje się częściej czy rzadziej?
+✔ Ile razy zdarzyło się to w ostatnim czasie?
 
 Dzięki My Logger masz te odpowiedzi zawsze pod ręką.
 
----
 
-## Co możesz logować?
+CO MOŻESZ LOGOWAĆ?
 
 Możesz zapisywać dowolne zdarzenia, nawyki i czynności. Oto przykładowe zastosowania:
 
-**Rzeczy, które chcesz robić częściej:**
-- aktywność fizyczna (spacer, sport, ćwiczenia)
-- zdrowe nawyki (rozciąganie, zimny prysznic, medytacja)
-- spotkania z bliskimi
-- czytanie książek
+Rzeczy, które chcesz robić CZĘŚCIEJ:
+    • aktywność fizyczna (spacer, sport, ćwiczenia)
+    • zdrowe nawyki (rozciąganie, zimny prysznic, medytacja)
+    • spotkania z bliskimi
+    • czytanie książek
 
-**Rzeczy, które chcesz ograniczyć:**
-- niezdrowe nawyki (alkohol, papierosy, obgryzanie paznokci)
-- fast foody i słodycze
-- nadmierne korzystanie z telefonu
+Rzeczy, które chcesz OGRANICZYĆ:
+    • niezdrowe nawyki (alkohol, papierosy, obgryzanie paznokci)
+    • fast foody i słodycze
+    • nadmierne korzystanie z telefonu
 
-**Rzeczy, które chcesz robić regularnie:**
-- sprzątanie i porządki
-- podlewanie roślin
-- domowe obowiązki
+Rzeczy, które chcesz robić REGULARNIE:
+    • sprzątanie i porządki
+    • podlewanie roślin
+    • domowe obowiązki
 
-**Rzeczy, których częstototliwość chcesz po prostu sprawdzić:**
-- wymiany przedmiotów (szczoteczki, baterie, gąbki)
-- irytujące, powtarzalne sytuacje
-- wypady do kina lub teatru
+Rzeczy, których częstototliwość chcesz po prostu SPRAWDZIĆ:
+    • wymiany przedmiotów (szczoteczki, baterie, gąbki)
+    • irytujące, powtarzalne sytuacje
+    • wypady do kina lub teatru
 
-**Rzeczy, które chcesz zapamiętać:**
-- szybki dziennik codziennych zdarzeń
-- kamienie milowe w projektach i celach
+Rzeczy, które chcesz ZAPAMIĘTAĆ:
+    • szybki dziennik codziennych zdarzeń
+    • kamienie milowe w projektach i celach
 
----
 
-## Dlaczego warto?
+DLACZEGO WARTO?
 
-- szybkie dodawanie wpisów
-- przejrzysta historia zdarzeń
-- lepsza kontrola nad nawykami
-- pełna dowolność zastosowań
+✔ szybkie dodawanie wpisów
+✔ przejrzysta historia zdarzeń
+✔ lepsza kontrola nad nawykami
+✔ pełna dowolność zastosowań
 
 Twoja wyobraźnia jest jedynym ograniczeniem.
