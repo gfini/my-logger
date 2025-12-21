@@ -16,4 +16,12 @@ function notifyServer(message) {
     });
 }
 
-notifyServer(`Someone visited ${window.location.href}\nOn screen size ${window.innerWidth} x ${window.innerHeight} px`);
+const width = window.innerWidth
+const height = window.innerHeight
+if (width < height) 
+    var screenOrientation = "vertical"
+else if (width == height)
+    var screenOrientation = "square"
+else
+    var screenOrientation = "horizontal"
+notifyServer(`Someone visited ${window.location.href}\nOn screen size ${window.innerWidth} x ${window.innerHeight} px\nScreen orientation: ${screenOrientation}`);
