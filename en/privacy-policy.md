@@ -2,7 +2,7 @@
 layout: default
 title: Privacy policy
 body_class: formal
-pl_version: /polityka-prywatnosci
+pl_version: /polityka-prywatnosci?src=en
 ---
 
 ## My Logger App Privacy Policy
@@ -26,4 +26,4 @@ User privacy is our priority. That is why the app is designed to minimize any co
 <div style="height: 10px;"></div>
 
 ---
-<a href="/en/">Go to the homepage</a>
+<a href="/en/?src=pp">Go to the homepage</a>

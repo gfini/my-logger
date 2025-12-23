@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O aplikacji
-en_version: /en/
+en_version: /en/?src=pl
 ---
 
 # My Logger
@@ -17,7 +17,7 @@ en_version: /en/
 <div class="side-by-side-reverse">
     <div class="app-screenshot-description">
         <h3>Co logować?</h3>
-        <p>W tej aplikacji możesz śledzić dowolne wydarzenia i działania. Wiem, że to dość ogólny opis, dlatego nie martw się, jeśli nic nie przychodzi Ci do głowy! Żeby zdobyć trochę inspiracji ✨, możesz zerknąć na <a href="/artykul/co-logowac">ten artykuł</a>, w którym zaproponowałem kilka kategorii wraz z konkretnymi przykładami 😊.</p>
+        <p>W tej aplikacji możesz śledzić dowolne wydarzenia i działania. Wiem, że to dość ogólny opis, dlatego nie martw się, jeśli nic nie przychodzi Ci do głowy! Żeby zdobyć trochę inspiracji ✨, możesz zerknąć na <a href="/artykul/co-logowac?src=home">ten artykuł</a>, w którym zaproponowałem kilka kategorii wraz z konkretnymi przykładami 😊.</p>
         <p>Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐.</p>
         <h3>Podstawowe funkcje</h3>
         <ul>
@@ -26,8 +26,8 @@ en_version: /en/
             <li>wyszukiwanie loggerów (przydatne, gdy masz ich już sporo 😉)</li>
             <li>przypinanie (gwiazdkowanie ⭐) loggerów</li>
             <li>archiwizowanie loggerów</li>
-            <li><a href="/version/1.6#nowy-wygląd-statystyk-📊">statystyki</a> (na razie liczbowe, ze wskaźnikami trendu ⬆️⬇️)</li>
-            <li><a href="/version/1.5#klepsydry-⏳">elastyczny system przypominania</a>, że już czas ⏳ na kolejnego loga</li>
+            <li><a href="/version/1.6#nowy-wygląd-statystyk-📊?src=home">statystyki</a> (na razie liczbowe, ze wskaźnikami trendu ⬆️⬇️)</li>
+            <li><a href="/version/1.5#klepsydry-⏳?src=home">elastyczny system przypominania</a>, że już czas ⏳ na kolejnego loga</li>
             <li>eksport danych do pliku, w tym możliwość automatycznego, codziennego zapisu np. na Google Drive</li>
         </ul>
     </div>
@@ -39,12 +39,12 @@ Aplikacja jest już publicznie dostępna w [Sklepie Google Play](https://play.go
 
 ### Chcesz wiedzieć więcej?
 Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz przeciwnie, zerknij na te artykuły!
-- [Korzyści z logowania](artykul/korzysci-z-logowania)
+- [Korzyści z logowania](artykul/korzysci-z-logowania?src=home)
 - [w planach] real-life przykłady moich własnych loggerów
 - [w planach] tipy, jak wykorzystać pełen potencjał aplikacji
 
 ### Dane i prywatność
-Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](polityka-prywatnosci).
+Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](polityka-prywatnosci?src=home).
 
 Jeśli chcesz zabezpieczyć swoje dane na wypadek utraty telefonu, w ustawieniach możesz włączyć automatyczną kopię zapasową lub dokonać ręcznego eksportu danych do pliku CSV. Możesz go potem zaimportować do aplikacji na nowym urządzeniu.
 

@@ -2,7 +2,7 @@
 layout: default
 title: Polityka prywatności
 body_class: formal
-en_version: /en/privacy-policy
+en_version: /en/privacy-policy?src=pl
 ---
 
 ## Polityka Prywatności Danych Osobowych Aplikacji My Logger
@@ -26,4 +26,4 @@ Prywatność użytkowników jest naszym priorytetem. Dlatego też aplikacja zost
 <div style="height: 10px;"></div>
 
 ---
-<a href="/">Przejdź do strony głównej</a>
+<a href="/?src=pp">Przejdź do strony głównej</a>

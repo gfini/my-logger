@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About the app
-pl_version: /artykul/korzysci-z-logowania
+pl_version: /artykul/korzysci-z-logowania?src=en
 ---
 
 # Benefits of logging
@@ -18,4 +18,4 @@ Collecting this kind of information will not only satisfy your curiosity but als
 <div style="height: 10px;"></div>
 
 ---
-<a href="/en/">Go to the homepage</a>
+<a href="/en/?src=a2">Go to the homepage</a>

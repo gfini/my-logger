@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About the App
-pl_version: /artykul/co-logowac
+pl_version: /artykul/co-logowac?src=en
 ---
 
 # What to log?
@@ -49,4 +49,4 @@ The only limit is your imagination 🌌 and curiosity 🧐😊.
 <div style="height: 10px;"></div>
 
 ---
-<a href="/en/">Go to the homepage</a>
+<a href="/en/?src=a1">Go to the homepage</a>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O aplikacji
-en_version: /en/article/benefits-of-logging
+en_version: /en/article/benefits-of-logging?src=pl
 ---
 
 # Korzyści z logowania
@@ -18,4 +18,4 @@ Zbieranie informacji o wydarzeniach z Twojego życia oraz działaniach, które p
 <div style="height: 10px;"></div>
 
 ---
-<a href="/">Przejdź do strony głównej</a>
+<a href="/?src=a2">Przejdź do strony głównej</a>

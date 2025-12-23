@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O aplikacji
-en_version: /en/article/what-to-log
+en_version: /en/article/what-to-log?src=pl
 ---
 
 # Co logować?
@@ -48,4 +48,4 @@ Ogranicza Cię tylko Twoja wyobraźnia 🌌 i ciekawość 🧐😊.
 <div style="height: 10px;"></div>
 
 ---
-<a href="/">Przejdź do strony głównej</a>
+<a href="/?src=a1">Przejdź do strony głównej</a>
