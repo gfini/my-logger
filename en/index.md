@@ -26,8 +26,8 @@ pl_version: /?src=en
             <li>searching loggers (useful once you have quite a few 😉)</li>
             <li>pinning (starring ⭐) loggers</li>
             <li>archiving loggers</li>
-            <li><a href="/en/version/1.6#new-look-for-statistics-📊?src=home">statistics</a> (currently numerical, with trend indicators ⬆️⬇️)</li>
-            <li><a href="/en/version/1.5#hourglasses-⏳?src=home">flexible reminder system</a> that tells you when it’s time ⏳ for another log</li>
+            <li><a href="/en/version/1.6?src=home#new-look-for-statistics-📊">statistics</a> (currently numerical, with trend indicators ⬆️⬇️)</li>
+            <li><a href="/en/version/1.5?src=home#hourglasses-⏳">flexible reminder system</a> that tells you when it’s time ⏳ for another log</li>
             <li>data export to file, including the option of automatic daily backup e.g. to Google Drive</li>
         </ul>
     </div>

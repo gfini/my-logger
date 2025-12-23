@@ -26,8 +26,8 @@ en_version: /en/?src=pl
             <li>wyszukiwanie loggerów (przydatne, gdy masz ich już sporo 😉)</li>
             <li>przypinanie (gwiazdkowanie ⭐) loggerów</li>
             <li>archiwizowanie loggerów</li>
-            <li><a href="/version/1.6#nowy-wygląd-statystyk-📊?src=home">statystyki</a> (na razie liczbowe, ze wskaźnikami trendu ⬆️⬇️)</li>
-            <li><a href="/version/1.5#klepsydry-⏳?src=home">elastyczny system przypominania</a>, że już czas ⏳ na kolejnego loga</li>
+            <li><a href="/version/1.6?src=home#nowy-wygląd-statystyk-📊">statystyki</a> (na razie liczbowe, ze wskaźnikami trendu ⬆️⬇️)</li>
+            <li><a href="/version/1.5?src=home#klepsydry-⏳">elastyczny system przypominania</a>, że już czas ⏳ na kolejnego loga</li>
             <li>eksport danych do pliku, w tym możliwość automatycznego, codziennego zapisu np. na Google Drive</li>
         </ul>
     </div>
