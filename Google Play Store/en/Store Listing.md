@@ -1,6 +1,6 @@
 # Short description
 
-Track daily events, habits, and routines. Gain awareness.
+Log your life. Gain awareness. Take control. Remember everything.
 
 ============================================================
 
@@ -21,7 +21,7 @@ With My Logger, these answers are always at your fingertips.
 
 WHAT CAN YOU LOG?
 
-You can track any events, habits, or activities. Here are some examples of how you can use it:
+You can track any events, habits, routines or activities. Here are some examples of how you can use it:
 
 Things you want to do MORE OFTEN:
     • physical activity (walking, sports, exercises)

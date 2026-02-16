@@ -1,6 +1,6 @@
 # Short description
 
-Śledź codzienne zdarzenia, nawyki i rutyny. Zyskaj świadomość.
+Zapisuj życie. Zyskaj świadomość. Przejmij kontrolę. Pamiętaj wszystko.
 
 ============================================================
 
@@ -21,7 +21,7 @@ Dzięki My Logger masz te odpowiedzi zawsze pod ręką.
 
 CO MOŻESZ LOGOWAĆ?
 
-Możesz zapisywać dowolne zdarzenia, nawyki i czynności. Oto przykładowe zastosowania:
+Możesz zapisywać dowolne zdarzenia, nawyki, rutyny i czynności. Oto przykładowe zastosowania:
 
 Rzeczy, które chcesz robić CZĘŚCIEJ:
     • aktywność fizyczna (spacer, sport, ćwiczenia)
