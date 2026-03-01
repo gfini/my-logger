@@ -1,6 +1,6 @@
 # Short description
 
-Zapisuj życie. Zyskaj świadomość. Przejmij kontrolę. Pamiętaj wszystko.
+Śledź codzienne zdarzenia, nawyki i rutyny. Zyskaj świadomość.
 
 ============================================================
 

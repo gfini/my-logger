@@ -1,6 +1,6 @@
 # Short description
 
-Log your life. Gain awareness. Take control. Remember everything.
+Track daily events, habits, and routines. Gain awareness.
 
 ============================================================
 
