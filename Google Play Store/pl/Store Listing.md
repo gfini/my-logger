@@ -1,6 +1,6 @@
 # Short description
 
-Śledź codzienne zdarzenia, nawyki i rutyny. Zyskaj świadomość.
+Śledź codzienne zdarzenia, nawyki i rutyny. Ustawiaj elastyczne przypomnienia.
 
 ============================================================
 

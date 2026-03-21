@@ -1,6 +1,6 @@
 # Short description
 
-Track daily events, habits, and routines. Gain awareness.
+Track daily events, habits, and routines. Set flexible reminders.
 
 ============================================================
 
