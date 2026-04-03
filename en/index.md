@@ -54,4 +54,4 @@ The app runs on all versions of Android from 8.0 Oreo and up. So if your phone i
 <div style="height: 50px;"></div>
 
 ---
-*last updated: 10.12.2025*
+*page last updated: 10.12.2025*

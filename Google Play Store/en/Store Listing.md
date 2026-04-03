@@ -1,59 +1,51 @@
+# App name
+
+My Logger – Event Tracker
+
 # Short description
 
-Track daily events, habits, and routines. Set flexible reminders.
+See when you last did something. Simple event tracker.
 
 ============================================================
 
 # Full description
 
-MY LOGGER – WHAT IS IT?
+My Logger – event tracker & smart reminders
 
-My Logger is a simple app that helps you quickly log and track events from your life in an organized way.
+Do you ever wonder: when was the last time you did something?
 
-It helps you answer questions like:
-✓ When did something last happen?
-✓ How often does it happen?
-✓ Is it happening more or less often?
-✓ How many times did it happen recently?
+My Logger is a simple event tracker / journal that lets you quickly log events and track how often they happen — without planning and without unnecessary complexity.
 
-With My Logger, these answers are always at your fingertips.
+WHAT DOES THE APP DO?
 
+✔ add entries in seconds
+✔ see when something last happened
+✔ track how often things occur
+✔ view a clear and simple timeline
 
-WHAT CAN YOU LOG?
+SMART REMINDERS (HOURGLASSES)
 
-You can track any events, habits, routines or activities. Here are some examples of how you can use it:
+Set reminders that work differently than in typical apps.
 
-Things you want to do MORE OFTEN:
-    • physical activity (walking, sports, exercises)
-    • healthy habits (stretching, cold showers, meditation)
-    • time with friends and family
-    • reading books
+✔ count time from your last entry
+✔ automatically reset after each new log
+✔ support fully custom intervals (e.g. 10 days, 5 months, 3 years)
+✔ highlight what is already “due”
 
-Things you want to do LESS OFTEN:
-    • unhealthy habits (alcohol, smoking, nail biting)
-    • fast food and sweets
-    • excessive phone use / social media
+No need to manually reschedule anything — the app adapts to you.
 
-Things you want to do REGULARLY:
-    • cleaning and tidying
-    • watering plants
-    • household chores
+WHAT CAN YOU USE IT FOR?
 
-Things you just want to CHECK the frequency of:
-    • replacing items (toothbrushes, batteries, sponges)
-    • annoying repetitive situations
-    • going to the cinema or theater
+• habit tracking (without streak pressure)
+• reminders for irregular tasks
+• tracking how often things happen
+• a simple event journal
 
-Things you want to REMEMBER:
-    • quick journaling (vacations, special moments)
-    • milestones in projects or goals
+WHY THIS APP?
 
+✔ maximum simplicity
+✔ fast logging
+✔ no unnecessary features or clutter
+✔ flexible reminders
 
-WHY USE MY LOGGER?
-
-✔ fast and easy logging
-✔ clear event history
-✔ better awareness of your habits
-✔ full freedom of use
-
-Your imagination is the only limit.
+Stay in control of your time and habits — without complications.

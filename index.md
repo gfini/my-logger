@@ -54,4 +54,4 @@ Aplikacja działa na wszystkich wersjach Androida od 8.0 Oreo w górę. Jeśli w
 <div style="height: 50px;"></div>
 
 ---
-*ostatnia aktualizacja: 10.12.2025*
+*ostatnia aktualizacja strony: 10.12.2025*

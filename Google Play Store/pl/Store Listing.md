@@ -1,59 +1,51 @@
+# App name
+
+My Logger – Tracker zdarzeń
+
 # Short description
 
-Śledź codzienne zdarzenia, nawyki i rutyny. Ustawiaj elastyczne przypomnienia.
+Sprawdź kiedy ostatnio coś zrobiłeś. Prosty tracker zdarzeń.
 
 ============================================================
 
 # Full description
 
-MY LOGGER – CO TO JEST?
+My Logger – event tracker i inteligentne przypomnienia
 
-My Logger to proste narzędzie, które pozwala szybko zapisywać i śledzić wydarzenia z Twojego życia w uporządkowany sposób.
+Zastanawiasz się czasem: kiedy ostatnio coś zrobiłeś?
 
-Pomaga odpowiedzieć na pytania typu:
-✔ Kiedy ostatnio coś się wydarzyło?
-✔ Jak często się to dzieje?
-✔ Czy dzieje się częściej czy rzadziej?
-✔ Ile razy zdarzyło się to w ostatnim czasie?
+My Logger to prosty event tracker / dziennik (journal), który pozwala szybko zapisywać zdarzenia i sprawdzać ich częstotliwość — bez planowania i bez skomplikowanych ustawień.
 
-Dzięki My Logger masz te odpowiedzi zawsze pod ręką.
+CO ROBI APLIKACJA?
 
+✔ dodajesz wpisy w kilka sekund
+✔ widzisz kiedy coś wydarzyło się ostatnio
+✔ sprawdzasz jak często coś robisz
+✔ masz przejrzystą historię (timeline)
 
-CO MOŻESZ LOGOWAĆ?
+INTELIGENTNE PRZYPOMNIENIA (KLEPSYDRY)
 
-Możesz zapisywać dowolne zdarzenia, nawyki, rutyny i czynności. Oto przykładowe zastosowania:
+Ustaw przypomnienia, które działają inaczej niż w typowych aplikacjach.
 
-Rzeczy, które chcesz robić CZĘŚCIEJ:
-    • aktywność fizyczna (spacer, sport, ćwiczenia)
-    • zdrowe nawyki (rozciąganie, zimny prysznic, medytacja)
-    • spotkania z bliskimi
-    • czytanie książek
+✔ liczą czas od ostatniego zdarzenia
+✔ automatycznie resetują się po wpisie
+✔ obsługują dowolne odstępy czasu (np. 10 dni, 5 miesięcy, 3 lata...)
+✔ pokazują, co już „powinno się wydarzyć”
 
-Rzeczy, które chcesz OGRANICZYĆ:
-    • niezdrowe nawyki (alkohol, papierosy, obgryzanie paznokci)
-    • fast foody i słodycze
-    • nadmierne korzystanie z telefonu
+Nie musisz nic przesuwać ręcznie — aplikacja dopasowuje się do Ciebie.
 
-Rzeczy, które chcesz robić REGULARNIE:
-    • sprzątanie i porządki
-    • podlewanie roślin
-    • domowe obowiązki
+DO CZEGO SIĘ PRZYDA?
 
-Rzeczy, których częstototliwość chcesz po prostu SPRAWDZIĆ:
-    • wymiany przedmiotów (szczoteczki, baterie, gąbki)
-    • irytujące, powtarzalne sytuacje
-    • wypady do kina lub teatru
+• śledzenie nawyków (bez presji streaków)
+• przypomnienia o nieregularnych zadaniach
+• kontrola częstotliwości działań
+• prosty dziennik zdarzeń
 
-Rzeczy, które chcesz ZAPAMIĘTAĆ:
-    • szybki dziennik codziennych zdarzeń
-    • kamienie milowe w projektach i celach
+DLACZEGO TA APLIKACJA?
 
+✔ maksymalna prostota
+✔ szybkie logowanie
+✔ brak zbędnych funkcji i chaosu
+✔ elastyczne przypomnienia
 
-DLACZEGO WARTO?
-
-✔ szybkie dodawanie wpisów
-✔ przejrzysta historia zdarzeń
-✔ lepsza kontrola nad nawykami
-✔ pełna dowolność zastosowań
-
-Twoja wyobraźnia jest jedynym ograniczeniem.
+Masz kontrolę nad czasem i swoimi nawykami — bez komplikacji.
