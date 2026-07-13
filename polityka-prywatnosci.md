@@ -7,7 +7,7 @@ en_version: /en/privacy-policy?src=pl
 
 ## Polityka Prywatności aplikacji My Logger
 
-*W obecnej formie obowiązuje od [wersji 1.10](version/1.10.md). Historia zmian jest dostępna [tutaj](https://github.com/gfini/my-logger/commits/main/polityka-prywatnosci.md).*
+*W obecnej formie obowiązuje od [wersji 1.10](version/1.10). Historia zmian jest dostępna [tutaj](https://github.com/gfini/my-logger/commits/main/polityka-prywatnosci.md).*
 
 My Logger (Mój Logger) jest darmową aplikacją. Aplikacja jest udostępniana bezpłatnie i jest przeznaczona do użytku w obecnej formie.
 
@@ -39,7 +39,7 @@ Prywatność użytkowników jest naszym priorytetem. Dlatego też aplikacja zost
 
 ### Słownik
 
-*Folder App Data* — prywatny obszar przechowywania na Dysku Google przeznaczony dla konkretnej aplikacji. Nie jest widoczny na zwykłej liście plików użytkownika w Dysku Google i nie jest dostępny dla innych aplikacji.
+*Folder App Data* — prywatny obszar przechowywania na Dysku Google przeznaczony dla konkretnej aplikacji. Nie jest widoczny na zwykłej liście plików użytkownika na Dysku Google i nie jest dostępny dla innych aplikacji.
 
 <div style="height: 10px;"></div>
 

@@ -7,7 +7,7 @@ pl_version: /polityka-prywatnosci?src=en
 
 ## Privacy Policy for My Logger App
 
-*Effective as of [version 1.10](en/version/1.10.md). Changes history is available [here](https://github.com/gfini/my-logger/commits/main/en/privacy-policy.md).*
+*Effective as of [version 1.10](version/1.10). Changes history is available [here](https://github.com/gfini/my-logger/commits/main/en/privacy-policy.md).*
 
 My Logger is a free application. It is provided at no cost and is intended for use as-is.
 
@@ -39,7 +39,7 @@ User privacy is our priority. That is why the app is designed to minimize any co
 
 ### Glossary
 
-*The Google Drive App Data folder* — a private storage area reserved for a specific application. It is not visible in the user's regular Google Drive file list and cannot be accessed by other applications.
+*Google Drive App Data folder* — a private storage area reserved for a specific application. It is not visible in the user's regular Google Drive file list and cannot be accessed by other applications.
 
 <div style="height: 10px;"></div>
 
