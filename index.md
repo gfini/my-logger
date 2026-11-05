@@ -44,7 +44,7 @@ Być może już Cię przytłoczyłem ilością informacji, ale jeśli wręcz prz
 - [w planach] tipy, jak wykorzystać pełen potencjał aplikacji
 
 ### Dane i prywatność
-Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](polityka-prywatnosci?src=home).
+Obecnie wszystkie dane, które wprowadzasz do aplikacji, są trzymane na Twoim telefonie. Ja nie mam dostępu do tych danych i nie zbieram żadnych Twoich danych bez Twojej zgody. Tutaj możesz sprawdzić [politykę prywatności](polityka-prywatnosci?src=home) oraz [regulamin](regulamin?src=home).
 
 Jeśli chcesz zabezpieczyć swoje dane na wypadek utraty telefonu, w ustawieniach możesz włączyć automatyczną kopię zapasową lub dokonać ręcznego eksportu danych do pliku CSV. Możesz go potem zaimportować do aplikacji na nowym urządzeniu.
 
